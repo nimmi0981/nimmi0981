@@ -1,4 +1,4 @@
-👋 Hello! I'm [Your Name]
+👋 **Hello! I'm Nimmi Verma**
 <br>
 💻 Flutter Developer | 🚀 Tech Enthusiast | 🎨 UI/UX Aesthetics Lover
 I'm passionate about creating intuitive and beautiful user interfaces using Flutter and solving real-world problems through code. I also dabble in backend technologies and love learning about new tools to enhance productivity.
